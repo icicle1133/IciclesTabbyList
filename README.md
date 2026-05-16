@@ -1,6 +1,5 @@
 # Icicle's Tabby List
 A standalone tab list plugin for Purpur/Paper 1.21.x (thats 1.21 - 1.21.11)
-- A wiki is located at https://wiki.icicle1133.cc/icicles-tabby-list
 
 ## What This Plugin Does
 
